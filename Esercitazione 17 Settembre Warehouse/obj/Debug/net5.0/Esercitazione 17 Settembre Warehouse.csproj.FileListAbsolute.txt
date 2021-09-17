@@ -1,0 +1,16 @@
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\Esercitazione 17 Settembre Warehouse.exe
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\Esercitazione 17 Settembre Warehouse.deps.json
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\Esercitazione 17 Settembre Warehouse.runtimeconfig.json
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\Esercitazione 17 Settembre Warehouse.runtimeconfig.dev.json
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\Esercitazione 17 Settembre Warehouse.dll
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\ref\Esercitazione 17 Settembre Warehouse.dll
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\bin\Debug\net5.0\Esercitazione 17 Settembre Warehouse.pdb
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.AssemblyInfoInputs.cache
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.AssemblyInfo.cs
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.dll
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\ref\Esercitazione 17 Settembre Warehouse.dll
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.pdb
+C:\Users\gian.mario.falchi\source\repos\Esercitazione 17 Settembre Warehouse\Esercitazione 17 Settembre Warehouse\obj\Debug\net5.0\Esercitazione 17 Settembre Warehouse.genruntimeconfig.cache

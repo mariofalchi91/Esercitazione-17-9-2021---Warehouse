@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Esercitazione 17 Settembre Warehouse/1.0.0": {
+        "runtime": {
+          "Esercitazione 17 Settembre Warehouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esercitazione 17 Settembre Warehouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
